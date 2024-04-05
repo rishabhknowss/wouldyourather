@@ -9,6 +9,7 @@ function App() {
   const [rightOption, setRightOption] = useState(0);
 
   const handleOptionsChange = () => {
+    alert("50% people choose this option")
     setLeftOption(prevOption => (prevOption + 1) % leftOptions.length);
     setRightOption(prevOption => (prevOption + 1) % rightOptions.length);
   };
