@@ -1,5 +1,4 @@
-// App.tsx
-import React, { useState } from 'react';
+import { useState } from 'react';
 import './App.css';
 import logo from './assets/wouldyourather.jpg';
 import { Left } from './components/Left';
