@@ -18,16 +18,25 @@ function App() {
     'Frontend Development',
     'SQL DATABASE',
     'DOCKER',
-    'STARTUPS',
-    'VS CODE'
+    'FAANG',
+    'LET DEVIN WORK',
+    'VS CODE',
+    'GCP',
+    'WINDOWS',
+    'WORK FROM OFFICE'
   ];
 
   const rightOptions = [
     'Backend Development',
     'NOSQL DATABASE',
     'KUBERNETES',
-    'FAANG',
-    'VIM'
+    'STARTUPS',
+    'USE CHATGPT',
+    'VIM',
+    'AWS',
+    'LINUX',
+    'REMOTE WORK'
+
   ];
 
   return (
